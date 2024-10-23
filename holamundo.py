@@ -5,4 +5,4 @@
 #Date        :20211005
 #Version     :1
 #Usage       :C:\>python/path/HolaMundo.py
-print("Hola mundo en pyton JM")
+print("Hola mundo en pyton Jose Manuel")
